@@ -16,7 +16,8 @@ class MainActivity08 : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            ConstrainContent3()
+//            ConstrainContent3()
+            TwoTextLayout()
         }
     }
 }
